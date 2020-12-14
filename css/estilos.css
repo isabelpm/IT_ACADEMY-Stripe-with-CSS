@@ -108,7 +108,6 @@
                     animation-delay: .4s; 
         }
     
-    
 /* Caja blanca hover animación */
         .stripes_tittle::before{
                 content: "";
@@ -132,8 +131,7 @@
                     transform: skew(0deg) scaleY(1) translate(0, 0);
         }
 
-                       
-
+                
 /* Añadir animaciones al entrar los elementos en pantalla */
    @-webkit-keyframes stripe1 {
   0% {
